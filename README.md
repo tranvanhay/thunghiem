@@ -1,0 +1,3 @@
+# thunghiem
+
+printf("Hello");
