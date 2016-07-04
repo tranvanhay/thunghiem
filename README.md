@@ -1,3 +1,5 @@
 # thunghiem
 
-printf("Hello");
+thanh cong roi
+:wq
+printf(Hello");
